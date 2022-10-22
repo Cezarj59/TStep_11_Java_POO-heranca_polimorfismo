@@ -1,4 +1,4 @@
-<h2>TStep_11_Java_POO-heranca_polimorfismo.</h2>
+<h2>TStep_11_Java_POO - herança e polimorfismo.</h2>
 
 <p>Sistema de Cadastro  Bancario Basico - Introdução a Herança e Polimorfismo em JAVA.</p>
 
