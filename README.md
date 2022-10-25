@@ -26,7 +26,7 @@
     <li>Conta</li>
   </ul>
   </li>
-<li>USE POLIMORFISMO nos métodos.</li>
+<li>Se necessário use POLIMORFISMO nos métodos.</li>
 <li>USE HERANÇA.</li>
 </ol>
 
